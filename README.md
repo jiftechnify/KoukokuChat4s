@@ -1,8 +1,8 @@
-## KoukokuChat4s
+# KoukokuChat4s
 
 A client for the chat on `koukoku.shadan.open.ad.jp`, written in Scala 3.
 
-### Usage
+## Usage
 
 ```bash
 # build an executable JAR
@@ -11,3 +11,6 @@ scala-cli --power package src/main/scala/Main.scala -o koukoku-chat-cli --assemb
 # launch
 ./koukoku-chat-cli
 ```
+
+## Lincense
+MIT
